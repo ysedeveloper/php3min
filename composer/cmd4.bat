@@ -1,0 +1,1 @@
+D:\programs\xampp\php\php.exe -r "unlink('composer-setup.php');"

@@ -1,0 +1,1 @@
+D:\programs\xampp\php\php.exe -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
